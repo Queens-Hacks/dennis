@@ -1,2 +1,9 @@
 language: node_js
-node_js: "0.10"
+node_js: '0.10'
+deploy:
+  provider: heroku
+  api_key:
+    secure: E6vHJnpb0ZoeHInus21w0/58cjLqAHTCRaGBwrdKUKHNCsx8uJ7rf0dKZZHI/sj0ixZdXBADf9pm9gItAOaCzHh0A+Ijy8v3yuLUSmNNCDs50N12e6SUF2hMCthDeWQbub2ZARf4Qs5SLr+akF/Hz6C6HtRnqLeXNcRTD5I5txE=
+  app: dennisbot
+  on:
+    repo: Queens-Hacks/dennis
