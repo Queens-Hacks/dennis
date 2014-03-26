@@ -7,3 +7,5 @@ deploy:
   app: dennisbot
   on:
     repo: Queens-Hacks/dennis
+notifications:
+  slack: qhack:mYlVYyvxSh0M7Thj9FF5DVlR
