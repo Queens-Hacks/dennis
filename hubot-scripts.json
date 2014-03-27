@@ -1,1 +1,11 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "javascript-sandbox.coffee",
+  "abstract.coffee",
+  "go-for-it.coffee",
+  "sudo.coffee",
+  "sloth-me.coffee",
+  "reddit-jokes.coffee",
+  "http-post-say.coffee"
+]
