@@ -7,5 +7,6 @@
   "sudo.coffee",
   "sloth-me.coffee",
   "reddit-jokes.coffee",
-  "http-post-say.coffee"
+  "http-post-say.coffee",
+  "octospy.coffee"
 ]
